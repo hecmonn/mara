@@ -3,4 +3,5 @@
 /admin_2.0/components
 /admin_2.0/node_modules
 /admin_2.0/css
-
+/admin_2.0/components/*
+/admin_2.0/node_modules/*
