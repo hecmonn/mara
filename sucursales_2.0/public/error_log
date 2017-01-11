@@ -1,0 +1,57 @@
+[22-Sep-2016 04:03:42 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupom13_admin'@'localhost' (using password: YES) in /home/grupom13/public_html/sucursales/includes/Database.php on line 20
+[22-Sep-2016 04:03:42 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home/grupom13/public_html/sucursales/includes/Database.php on line 21
+[22-Sep-2016 04:03:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupom13_admin'@'localhost' (using password: YES) in /home/grupom13/public_html/sucursales/includes/Database.php on line 20
+[22-Sep-2016 04:03:43 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home/grupom13/public_html/sucursales/includes/Database.php on line 21
+[22-Sep-2016 04:03:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupom13_admin'@'localhost' (using password: YES) in /home/grupom13/public_html/sucursales/includes/Database.php on line 20
+[22-Sep-2016 04:03:47 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home/grupom13/public_html/sucursales/includes/Database.php on line 21
+[22-Sep-2016 04:03:47 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/grupom13/public_html/sucursales/includes/functions.php on line 5
+[22-Sep-2016 04:03:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/grupom13/public_html/sucursales/includes/functions.php on line 10
+[22-Sep-2016 04:03:47 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/grupom13/public_html/sucursales/includes/functions.php on line 12
+[22-Sep-2016 04:05:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupom13_admin'@'localhost' (using password: YES) in /home/grupom13/public_html/sucursales/includes/Database.php on line 20
+[22-Sep-2016 04:05:43 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home/grupom13/public_html/sucursales/includes/Database.php on line 21
+[22-Sep-2016 04:05:43 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/grupom13/public_html/sucursales/includes/functions.php on line 5
+[22-Sep-2016 04:05:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/grupom13/public_html/sucursales/includes/functions.php on line 10
+[22-Sep-2016 04:05:43 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/grupom13/public_html/sucursales/includes/functions.php on line 12
+[22-Sep-2016 04:05:45 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupom13_admin'@'localhost' (using password: YES) in /home/grupom13/public_html/sucursales/includes/Database.php on line 20
+[22-Sep-2016 04:05:45 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home/grupom13/public_html/sucursales/includes/Database.php on line 21
+[22-Sep-2016 04:05:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'grupom13_admin'@'localhost' (using password: YES) in /home/grupom13/public_html/sucursales/includes/Database.php on line 20
+[22-Sep-2016 04:05:52 UTC] PHP Warning:  mysqli_errno() expects parameter 1 to be mysqli, boolean given in /home/grupom13/public_html/sucursales/includes/Database.php on line 21
+[22-Sep-2016 04:05:52 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/grupom13/public_html/sucursales/includes/functions.php on line 5
+[22-Sep-2016 04:05:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/grupom13/public_html/sucursales/includes/functions.php on line 10
+[22-Sep-2016 04:05:52 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/grupom13/public_html/sucursales/includes/functions.php on line 12
+[22-Sep-2016 04:09:13 UTC] PHP Fatal error:  Call to undefined function redirect_to() in /home/grupom13/public_html/sucursales/includes/header.php on line 4
+[22-Sep-2016 04:09:32 UTC] PHP Fatal error:  Call to undefined function redirect_to() in /home/grupom13/public_html/sucursales/includes/header.php on line 4
+[01-Oct-2016 17:20:06 UTC] PHP Fatal error:  Call to undefined function redirect_to() in /home/grupom13/public_html/sucursales/includes/header.php on line 4
+[02-Oct-2016 22:54:22 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 22:54:22 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 22:56:12 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 22:56:12 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 22:57:13 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 22:57:13 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 22:58:25 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 22:58:25 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 22:59:51 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 22:59:51 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:00:10 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:00:10 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:00:14 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:00:14 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:00:34 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:00:34 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:01:14 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:01:14 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:02:26 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:02:26 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:03:04 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:03:04 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:04:31 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:04:31 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:13:28 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:13:28 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:36:50 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:36:50 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:38:18 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:38:18 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:38:42 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[02-Oct-2016 23:38:42 UTC] PHP Warning:  utf8_decode() expects parameter 1 to be string, array given in /home/grupom13/public_html/sucursales/includes/functions.php on line 4
+[04-Oct-2016 02:25:28 UTC] PHP Parse error:  syntax error, unexpected '.1' (T_DNUMBER) in /home/grupom13/public_html/sucursales/public/av.php on line 20

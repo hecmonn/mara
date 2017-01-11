@@ -1,0 +1,68 @@
+/* WHOLE PAGE */
+@import 'https://fonts.googleapis.com/css?family=Roboto:400,500';
+html, body { height:100%; width: 100%;}
+#page {font-family: 'Roboto', sans-serif; font-size: 18px;}
+#page a:hover{text-decoration: none;}
+#page {margin-right:30px;}
+#page strong {font-weight: 500;}
+span{font-weight: 400;}
+
+/*login*/
+.login-form img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 4em;
+}
+
+/* session messages */
+.session_message {
+	text-align: center;
+	border-radius: 100px;
+	background-color: #64FF04;
+	color: white;
+}
+
+/* logo */
+.header a.logo{
+	position: relative;
+	display: block;
+	width: 150px; height:100px;
+	background: url("../images/logo.png") no-repeat 0 0; background-size: contain;
+	top:15px; left: 20px;
+}
+.header h1{text-align: center;}
+.logo span {display: none;}
+
+/* side navigation bar */
+.side-bar-nav{position: relative; padding-top: 10px;}
+.side-bar-nav ul {list-style-type: none; font-size: 1.5em;}
+.side-bar-nav a:hover{position: relative; left:10px; color:black;}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+/* drop down */
+li { 
+  list-style: none; 
+} 
+
+#dd a { 
+  text-decoration: none; 
+} 
+
+/* style economics */
+.resta{
+	color: red;
+}
+.total{color: green;}
+
+#bottom{
+	position:absolute;
+	bottom:0;
+	right:0;
+}

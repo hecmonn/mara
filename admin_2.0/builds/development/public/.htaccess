@@ -1,0 +1,23 @@
+RewriteEngine On
+#change index
+DirectoryIndex home.php
+
+#not found redirect
+Redirect 404 not_found.html
+
+#hide php extension
+RewriteRule ^([^.?]+)$ %{REQUEST_URI}.php [L]
+
+#profile url
+RewriteRule ^-([0-9a-zA-Z]+) profile.php?lif=$1
+RewriteRule ^404 /gulp-starter/builds/development/public/not_found.html
+RewriteRule ^post([0-9a-zA-Z]+) post.php?jp=$1
+#forbid files
+
+#hide logout path
+RewriteRule ^logout /gulp-starter/builds/development/includes/logout.php
+RewriteRule u/^logout /gulp-starter/builds/development/includes/logout.php
+#<files home.php>
+#    order allow,deny
+#    deny from all
+#</files>

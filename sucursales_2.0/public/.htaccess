@@ -1,0 +1,9 @@
+RewriteEngine On
+#change index
+DirectoryIndex home.php
+
+#not found redirect
+Redirect 404 not_found.html
+
+#hide php extension
+RewriteRule ^([^.?]+)$ %{REQUEST_URI}.php [L]
